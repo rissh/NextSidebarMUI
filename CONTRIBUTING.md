@@ -1,6 +1,6 @@
-# Contributing to [Your Project Name]
+# Contributing to [NextSidebarMUI]
 
-Welcome to the [Your Project Name] repository! We appreciate your interest in contributing.
+Welcome to the [NextSidebarMUI] repository! We appreciate your interest in contributing.
 
 ## How to Contribute
 
@@ -50,7 +50,7 @@ If you encounter any issues or have suggestions for improvement, please open an 
 
 ## Contact
 
-If you have any questions or need further assistance, feel free to contact us at [your-email@example.com].
+If you have any questions or need further assistance, feel free to contact us at [rishikshjagadale19@gmail.com].
 
 Thank you for your contribution!
 
